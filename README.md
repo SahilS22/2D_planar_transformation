@@ -36,13 +36,13 @@ Reset: Use the Reset button to clear inputs and start again.
 
 ## Screenshots
 step1:Launching the Application
-![image](https://github.com/user-attachments/assets/b86c62ef-04b2-4e70-af4f-e82b259fc86a)
+##![image](https://github.com/user-attachments/assets/b86c62ef-04b2-4e70-af4f-e82b259fc86a)
 step2:Selecting a transformation
-![image](https://github.com/user-attachments/assets/dab2d315-9ba5-44f7-99fa-2c2446043453)
+##![image](https://github.com/user-attachments/assets/dab2d315-9ba5-44f7-99fa-2c2446043453)
 step3:Inputing the parameters
-![image](https://github.com/user-attachments/assets/dbff414a-675e-482b-b3ad-b6539c826882)
+##![image](https://github.com/user-attachments/assets/dbff414a-675e-482b-b3ad-b6539c826882)
 step4:Apply Transformation
-![image](https://github.com/user-attachments/assets/ab535d2b-239a-4bd9-b6f3-fe10f6d1bf95)
+##![image](https://github.com/user-attachments/assets/ab535d2b-239a-4bd9-b6f3-fe10f6d1bf95)
 
 
 
