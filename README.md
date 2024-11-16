@@ -4,8 +4,14 @@ The 2D Planar Transformations Simulator is a Python-based GUI application that a
 
 ## Features
 1.Apply transformations such as Translation, Euclidean, Similarity, and Affine.
+
+
 2.Visualize the original and transformed shapes in a 2D plot.
+
+
 3.User-friendly GUI built using Tkinter.
+
+
 4.Reset functionality to clear inputs and start fresh.
 
 ## Requirements
@@ -35,13 +41,27 @@ Apply Transformation: Click Apply Transformation to visualize the result.
 Reset: Use the Reset button to clear inputs and start again.
 
 ## Screenshots
-##step1:Launching the Application
+step1:Launching the Application
+
+
 ![image](https://github.com/user-attachments/assets/b86c62ef-04b2-4e70-af4f-e82b259fc86a)
-##step2:Selecting a transformation
+
+
+step2:Selecting a transformation
+
+
 ![image](https://github.com/user-attachments/assets/dab2d315-9ba5-44f7-99fa-2c2446043453)
-##step3:Inputing the parameters
+
+
+step3:Inputing the parameters
+
+
 ![image](https://github.com/user-attachments/assets/dbff414a-675e-482b-b3ad-b6539c826882)
-##step4:Apply Transformation
+
+
+step4:Apply Transformation
+
+
 ![image](https://github.com/user-attachments/assets/ab535d2b-239a-4bd9-b6f3-fe10f6d1bf95)
 
 
